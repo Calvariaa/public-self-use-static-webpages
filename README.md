@@ -1,0 +1,1 @@
+# public-self-use-static-webpages
